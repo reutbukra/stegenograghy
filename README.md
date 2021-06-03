@@ -7,7 +7,7 @@
 
 ## description:
 this project is part of academic course, 
-this project contain 4 imrovements article
+this project contain 4 improvements article
 ## Technologies:
 * visual studio code
 languages: Python
@@ -16,26 +16,19 @@ languages: Python
 ### to run this project, install python in visual studio code
 ### Verify the Python installation 
 py -3 --version
-#### At the beginning of the computer write down Python
-#### Enter from the command line to the folder open file locationnnnnnnnnnnnnnnnnnnnnn
-cd ctrl+v
-and visiualllll
 #### Install the following libraries
-py -m pip install --upgrade pip
-python -m venv .venv
-
+python get-pip.py
+py -m pip install --upgrade pip 
 py -m pip install opencv-contrib-python
+py -m pip install pybase64
 py -m pip install pycryptodomex or py -m pip install pycryptodome
-py -m pip install crypto s3
-#### run lint:
-npm run lint
+py -m pip install crypto 
 #### run the project:
-npm run dev
-
+Run and Debug
 
 ## Authors:
 * https://github.com/LeahMi
-* https://github.com/merav1
+* https://github.com/reutbukra
 * https://github.com/merav1
 
 
