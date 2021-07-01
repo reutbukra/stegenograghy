@@ -17,12 +17,19 @@ languages: Python
 ### Verify the Python installation 
 py -3 --version
 #### Install the following libraries
+
 python get-pip.py
+
 py -m pip install --upgrade pip 
+
 py -m pip install opencv-contrib-python
+
 py -m pip install pybase64
+
 py -m pip install pycryptodomex or py -m pip install pycryptodome
+
 py -m pip install crypto 
+
 #### run the project:
 Run and Debug
 
